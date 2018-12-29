@@ -1,0 +1,11 @@
+{
+  "task": {
+    "DocClassificationTask": {
+      "data_handler": {
+        "train_path": "./dataset/smsspam_train.tsv",
+        "eval_path": "./dataset/smsspam_test.tsv",
+        "test_path": "./dataset/smsspam_test.tsv"
+      }
+    }
+  }
+}
